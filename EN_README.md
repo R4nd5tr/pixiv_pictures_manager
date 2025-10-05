@@ -2,6 +2,8 @@
 
 [English](EN_README.md) | [简体中文](README.md)
 
+This is a prototype of my other project [Waifu Gallery](https://github.com/R4nd5tr/waifu_gallery), which has been discontinued. Waifu Gallery has more features and better performance.
+
 Have you downloaded a bunch of pictures from pixiv but can't find the ones you want due to the sheer volume? This tool can help you manage these pictures, making it easier to find and use them.
 
 Only supports pictures downloaded using [Powerful Pixiv Downloader](https://github.com/xuejianxianzun/PixivBatchDownloader).
@@ -43,7 +45,6 @@ After downloading a large number of pictures from Pixiv, managing and finding sp
 - Sort pictures by file size, resolution, aspect ratio, and other attributes.
 
 ## Usage
-*Currently in development. Only basic features are implemented. To try the tool:*
 
 ### Environment Requirements
 - Python 3.9+ (Developed on Python 3.11.10)
@@ -93,17 +94,6 @@ Click `File` → `Add New Pictures` and select your folder. The program will:
 - Sort by aspect ratio (closest matches first)
 - Sort by PID
 - More sorting options in development
-
-## Future Plans
-- Enhanced sorting features
-- Picture favorites system
-- Image preview functionality
-
-## User Feedback
-Submit issues via [GitHub Issues](https://github.com/djasoid/pixiv_pictures_manager/issues).
-
-## Changelog
-- 2025-02-01: Initial beta release with core features
 
 ## License
 GPLv3 - See [LICENSE](LICENSE)
